@@ -1,8 +1,21 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/-React Native-black?style=for-the-badge&logoColor=blue&logo=react&color=000000" alt="React Native" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=FFE417" alt="JavaScript" />
+
+  </div>
+
+  <h3 align="center">A React Native Train Ticket Booking App</h3>
+
+   <div align="left">
+      This project is reference from <a href="https://www.youtube.com/watch?v=tiHQ3mkYLgE" target="_blank"><b>ByProgrammers</b></a> YouTube.
+    </div>
+   <br />
+</div>
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
